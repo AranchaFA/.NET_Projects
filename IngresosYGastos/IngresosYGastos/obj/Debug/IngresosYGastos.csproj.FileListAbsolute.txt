@@ -1,0 +1,15 @@
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\bin\Debug\IngresosYGastos.exe.config
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\bin\Debug\IngresosYGastos.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\bin\Debug\IngresosYGastos.pdb
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.csprojResolveAssemblyReference.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\App.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos_MarkupCompile.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.g.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.Properties.Resources.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.csproj.GenerateResource.Cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\IngresosYGastos.pdb
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\gui\MainWindow.baml
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\gui\MainWindow.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\gui\WindowLibro.baml
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\IngresosYGastos\IngresosYGastos\obj\Debug\gui\WindowLibro.g.cs

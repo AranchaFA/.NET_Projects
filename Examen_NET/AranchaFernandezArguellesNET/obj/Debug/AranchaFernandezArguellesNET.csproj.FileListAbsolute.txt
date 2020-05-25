@@ -1,0 +1,15 @@
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\bin\Debug\AranchaFernandezArguellesNET.exe.config
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.csprojResolveAssemblyReference.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\App.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET_MarkupCompile.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\gui\MainWindow.baml
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\gui\MainWindow.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.g.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.Properties.Resources.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.csproj.GenerateResource.Cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\gui\WindowPersona.baml
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\gui\WindowPersona.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\bin\Debug\AranchaFernandezArguellesNET.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\bin\Debug\AranchaFernandezArguellesNET.pdb
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\AranchaFernandezArguellesNET\AranchaFernandezArguellesNET\obj\Debug\AranchaFernandezArguellesNET.pdb

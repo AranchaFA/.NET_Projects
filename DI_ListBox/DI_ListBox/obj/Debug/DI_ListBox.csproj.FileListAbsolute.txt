@@ -1,0 +1,13 @@
+c:\users\aranx\onedrive\documentos\visual studio 2012\Projects\DI_ListBox\DI_ListBox\bin\Debug\DI_ListBox.exe.config
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\bin\Debug\DI_ListBox.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\bin\Debug\DI_ListBox.pdb
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.csprojResolveAssemblyReference.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\MainWindow.baml
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\App.g.cs
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox_MarkupCompile.cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.g.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.Properties.Resources.resources
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.csproj.GenerateResource.Cache
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.exe
+C:\Users\aranx\OneDrive\Documentos\Visual Studio 2012\Projects\DI_ListBox\DI_ListBox\obj\Debug\DI_ListBox.pdb

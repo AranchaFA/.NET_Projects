@@ -1,0 +1,14 @@
+﻿<Window x:Class="AranchaFernandezArguellesNET.gui.WindowPersona"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowPersona" Height="146.568" Width="300">
+    <Grid Margin="0,0,0.333,0.333">
+        <Label x:Name="lbl_nombre" Content="Nombre:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label x:Name="lbl_apellidos" Content="Apellidos:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="53"/>
+        <TextBox x:Name="textbox_Nombre" Validation.Error="Validation_Error" Text="{Binding Path=Nombre,NotifyOnValidationError=True,ValidatesOnDataErrors=True}" HorizontalAlignment="Left" Height="23" Margin="88,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+        <TextBox x:Name="textbox_apellidos" Validation.Error="Validation_Error" Text="{Binding Path=Apellidos,NotifyOnValidationError=True,ValidatesOnDataErrors=True}" HorizontalAlignment="Left" Height="23" Margin="88,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+        <Button x:Name="bt_insertar" Content="Insertar" Click="clickInsertar" HorizontalAlignment="Left" Margin="32,87,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="bt_cancelar" Content="Cancelar" Click="clickCancelar" HorizontalAlignment="Left" Margin="172,87,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
